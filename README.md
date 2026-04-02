@@ -50,7 +50,7 @@ credit-card-fraud-detection/
 1. Clone the repository
 Bash
 
-git clone https://github.com/your-username/credit-card-fraud-detection.git
+git clone https://github.com/PiyushAgar104/credit-card-fraud-detection.git
 cd credit-card-fraud-detection
 2. Install dependencies
 Bash
